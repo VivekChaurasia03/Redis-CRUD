@@ -29,7 +29,7 @@ Before running the application, ensure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/Redis-CRUD.git
+git clone https://github.com/VivekChaurasia03/Redis-CRUD.git
 cd Redis-CRUD
 ```
 
